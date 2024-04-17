@@ -2,6 +2,10 @@ This script is straightforward in functionality. Check if port is down, if port 
 
 ===========================================================================
 
+Open your .bat file and make sure it has a direct path to MOEServer.exe
+
+===========================================================================
+
 ```
 CONFIG = {
     "log_file": "MOE_ProcessMonitor.log",        # Log file name
