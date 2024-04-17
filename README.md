@@ -1,4 +1,4 @@
-This script is straightforward in functionality. Check if port is down, if port is down start .bat that's associated with port.
+This script is straightforward in functionality. Check if port is down, if port is down start .bat that's associated with that port.
 
 ===========================================================================
 
