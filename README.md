@@ -2,7 +2,7 @@ This script is straightforward in functionality
 
 ==========================================================
 
-
+```
 CONFIG = {
     "log_file": "MOE_ProcessMonitor.log",        # Log file name
     "max_log_size": 10 * 1024 * 1024,            # Max log file size (10 MB) multiplies 10 by 1024 and then multiplies the result by 1024 again  = to make (5MB) 5 * 1024 * 1024, 
@@ -15,3 +15,4 @@ CONFIG = {
         "5013": "StartSceneServer_56731.bat"
     }
 }
+```
