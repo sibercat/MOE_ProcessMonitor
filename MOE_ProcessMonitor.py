@@ -12,7 +12,7 @@ CONFIG = {
     "check_interval": 120,                       # Time (in seconds) between checks
     "restart_delay": 20,                         # Delay (in seconds) before restarting a process
     "ports": {                                   # Port and corresponding batch file mappings
-        "5011": "StartSceneServer_51199.bat",    # Check what ports are down and run specific .bat file that's associated with
+        "5011": "StartSceneServer_51199.bat",    # Check what ports are down and run specific .bat file that's associated with that port.
         "5012": "StartSceneServer_55862.bat",
         "5013": "StartSceneServer_56731.bat"
     }
