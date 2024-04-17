@@ -1,6 +1,5 @@
-This script is straightforward in functionality
+This script is straightforward in functionality. Check if port is down, if port is down start .bat that's associated with port.
 
-Check if port is down, if port is down start .bat that
 ===========================================================================
 
 ```
