@@ -18,7 +18,7 @@ CONFIG = {
         "5013": "StartSceneServer_56731.bat"
     },
     "max_restarts": 3,                           # Maximum number of restarts allowed within the time window
-    "restart_window": 300,                       # Time window (in seconds) for tracking restarts
+    "restart_window": 60,                       # Time window (in seconds) for tracking restarts
 }
 
 # Set up basic configuration for logging
